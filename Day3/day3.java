@@ -17,8 +17,7 @@ public class day3
 	// }
 
 	// Part 2
-	public static void main(String[] args){
-		Map<{int,int}, int> themap;
-		
-	}
+	// public static void main(String[] args){
+
+	// }
 }
